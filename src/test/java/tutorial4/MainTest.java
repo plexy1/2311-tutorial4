@@ -18,7 +18,7 @@ class MainTest {
 
 	@Test
 	void test2() {
-		//fail("test fail");
+		fail("test fail");
 	}
 
 }
